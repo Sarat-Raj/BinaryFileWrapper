@@ -1,18 +1,19 @@
 #include <iostream>
 #include <unistd.h>
 #include <sys/wait.h>
+#include <string.h>
 int main(int argc, char** argv) {
  try{
-  Hex_Key = argv[1];
-  Hex_Text = argv[2];
+  std::string Hex_Key = argv[1];
+  std::string Hex_Text = argv[2];
   throw 505;
  }
- catch(...){ cout << "Needs 2 args with execution to run.";}
+ catch(...){ std::cout << "Needs 2 args with execution to run.";}
  // when code is compiled as g++ -o mother CPPWrap.cpp and 
  // is supposed to receive executing command as ./mother arg1 arg2 ....
  pid_t child_pid=fork();
  if (child_pid==0){
-  execl("~/Downloads/CSE598_Project1_Handout/project1_handout","mothership","--key", Hex_Key, "--plaintext", Hex_Text, nullptr);
+  execl("/home/cen598/Downloads/CSE598_Project1_Handout/project1_handout","mothership","--key", Hex_Key, "--plaintext", Hex_Text, nullptr);
   perror("execl");
   exit(1);
  }
