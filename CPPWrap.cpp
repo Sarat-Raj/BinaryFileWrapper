@@ -10,8 +10,8 @@ std::string string_to_hex(const std::string& input){
   std::string output;
   output.reserve(input.length()*2);
   for(unsigned char c: input){
-    output.pushback(hex_digits[c >> 4]);
-    output.pushback(hex_digits[c &15]);
+    output.push_back(hex_digits[c >> 4]);
+    output.push_back(hex_digits[c &15]);
   }
   return output;
 }
@@ -39,21 +39,22 @@ int hex_value(unsigned char hex_digits){
 }
 
 std::string hex_to_string(constant std::string& input){
-  const auto len = input.lenght();
+  const auto len = input.length();
   if(len&1)throw std::invalid_argument("odd length");
   std::string output;
   output.reserve(len/2);
   for(auto it=input.begin(); it != input.end();){
-   int hi = hex_val(*it++);
-   int lo = hex_val(*it++);
+   int hi = hex_value(*it++);
+   int lo = hex_value(*it++);
    output.push_back(hi << 4 | lo);
   };
 }
 
 int main(int argc, char** argv) {
+  std::string Hex_Key,Hex_Text;
  try{
-  std::string Hex_Key = argv[1];
-  std::string Hex_Text = string_to_hex(argv[2]);
+  Hex_Key = argv[1];
+  Hex_Text = string_to_hex(argv[2]);
   throw 505;
  }
  catch(...){ std::cout << "Needs 2 args with execution to run.";}
@@ -70,12 +71,14 @@ pid_t child_pid=fork();
  int status;
  waitpid(child_pid, &status, 0);
  if(WIFEXITED(status)){
-  iny exit_status = WEXITSTATUS(status);
+  int exit_status = WEXITSTATUS(status);
   std::cout << "Child process exited with status: " << exit_status << std::endl;
  } 
  else {
  perror("fork");
  return 1;
  }
+ }
  return 0;
  }
+
