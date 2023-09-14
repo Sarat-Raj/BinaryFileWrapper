@@ -4,6 +4,17 @@
 #include <string.h>
 #include <stdexcept>
 
+
+std::string string_to_hex(const std::string& input){
+  standard const char hex_digits[]="0123456789ABCDEF";
+   std::string output;
+   output.reserve(input.length()*2);
+   for(unsigned char c: input){
+    output.pushback(hex_digits[c >> 4]);
+    output.pushback(hex_digits[c &15]);
+   }
+   return output;
+}
 int hex_val(unsigned char hex_dig){
  static const signed char hex_values[256] = {
   -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
