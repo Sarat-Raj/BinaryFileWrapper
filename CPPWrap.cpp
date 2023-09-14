@@ -53,7 +53,7 @@ std::string hex_to_string(constant std::string& input){
 int main(int argc, char** argv) {
  try{
   std::string Hex_Key = argv[1];
-  std::string Hex_Text = argv[2];
+  std::string Hex_Text = string_to_hex(argv[2]);
   throw 505;
  }
  catch(...){ std::cout << "Needs 2 args with execution to run.";}
