@@ -28,7 +28,15 @@ int hex_val(unsigned char hex_dig){
 }
 
 std::string hex_to_string(constant std::string& input){
-
+  const auto len = input.lenght();
+  if(len&1)throw std::invalid_argument("odd length");
+  std::string output;
+  output.reserve(len/2);
+  for(auto it=input.begin(); it != input.end();){
+   int hi = hex_val(*it++);
+   int lo = hex_val(*it++);
+   output.push_back(hi << 4 | lo);
+  };
 }
 
 int main(int argc, char** argv) {
