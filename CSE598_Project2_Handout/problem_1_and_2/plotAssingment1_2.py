@@ -62,7 +62,7 @@ print("Max Times:", max_times)
 
 # Create the graph
 plt.figure(figsize=(8, 6))
-plt.plot(array_size, avgs, marker='o', linestyle='-')
+plt.scatter(array_size, avgs, marker='o', linestyle='-')
 plt.xlabel('Size of Array')
 plt.ylabel('Memory Bandwidth (MiB/s)')
 plt.title('Memory Bandwidth vs. Size of Array')
