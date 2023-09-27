@@ -173,6 +173,7 @@ main()
     printf(HLINE);
 
     printf("Array size = %llu (elements), Offset = %d (elements)\n" , (unsigned long long) STREAM_ARRAY_SIZE, OFFSET);
+	printf("$$array_size$pythonreference$$ %llu\n", (unsigned long long) STREAM_ARRAY_SIZE);
     printf("Memory per array = %.1f MiB (= %.1f GiB).\n", 
 	BytesPerWord * ( (double) STREAM_ARRAY_SIZE / 1024.0/1024.0),
 	BytesPerWord * ( (double) STREAM_ARRAY_SIZE / 1024.0/1024.0/1024.0));
