@@ -6,8 +6,14 @@ output_file="memory_bandwidth_results.txt"
 # Clear existing data in the output file
 echo -n "" > "$output_file"
 
+array_sizes=()
+
+for((i=8192;i<=16777216;i*=2));do
+    array_sizes+=("$i")
+done
+
 # Loop to test different array sizes
-for array_size in 1024 2048 4096 8192 16384 32768 65536 131072 262144 524288 1048576 2097152 4194304 8388608 16777216 33554432 67108864 134217728
+for array_size in "${array_sizes[@]}"
 do
     # Compile the STREAM benchmark with the current array size
     gcc -DSTREAM_ARRAY_SIZE=$array_size -fopenmp -O3 simple_stream.c -o simple_stream -mcmodel=large

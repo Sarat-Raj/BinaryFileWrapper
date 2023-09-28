@@ -35,7 +35,6 @@ for section in sections:
     avg_match = re.search(pattern_avg, section)
     min_match = re.search(pattern_min, section)
     max_match = re.search(pattern_max, section)
-
     # Extract values if the patterns were found in the current section
     if array_size_match:
         array_size.append(int(array_size_match.group(1)))
@@ -50,6 +49,7 @@ for section in sections:
     if max_match:
         max_times.append(float(max_match.group(1)))
 
+#rates=[0,0,0,0,0,0,0,0,0,0,0,0]+rates[:-4]
 # Print the extracted values from all sections
 print("array_size:", array_size)
 print("Clocks:", clocks)
@@ -61,12 +61,13 @@ print("Max Times:", max_times)
 
 
 # Create the graph
-plt.figure(figsize=(8, 6))
-plt.scatter(array_size, avgs, marker='o', linestyle='-')
+plt.figure(figsize=(10, 6),dpi=300)
+plt.scatter(array_size, rates, marker='o', linestyle='-')
 plt.xlabel('Size of Array')
 plt.ylabel('Memory Bandwidth (MiB/s)')
 plt.title('Memory Bandwidth vs. Size of Array')
 plt.grid(True)
+#plt.yticks(rates)
 
 # Show the graph or save it as an image file
 plt.savefig("Problem1_2.jpg")

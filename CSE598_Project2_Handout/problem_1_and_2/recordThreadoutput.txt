@@ -16,9 +16,9 @@ Number of Threads counted = 1
 $$thread$pythonreference$$ 1
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 136124 microseconds.
-   (= 136124 clock ticks)
-$$clocktick$pythonreference$$ 136124 
+Each test below will take on the order of 103137 microseconds.
+   (= 103137 clock ticks)
+$$clocktick$pythonreference$$ 103137 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -27,11 +27,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           24793.2     0.089944     0.086616     0.105996
-$$rate$pythonreference$$ 24793.2
-$$avg$pythonreference$$ 0.089944
-$$min$pythonreference$$ 0.086616
-$$max$pythonreference$$ 0.105996
+Copy:           24634.1     0.093623     0.087175     0.133137
+$$rate$pythonreference$$ 24634.1
+$$avg$pythonreference$$ 0.093623
+$$min$pythonreference$$ 0.087175
+$$max$pythonreference$$ 0.133137
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -52,9 +52,9 @@ Number of Threads counted = 2
 $$thread$pythonreference$$ 2
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 81511 microseconds.
-   (= 81511 clock ticks)
-$$clocktick$pythonreference$$ 81511 
+Each test below will take on the order of 82523 microseconds.
+   (= 82523 clock ticks)
+$$clocktick$pythonreference$$ 82523 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -63,11 +63,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           29173.0     0.074495     0.073612     0.076694
-$$rate$pythonreference$$ 29173.0
-$$avg$pythonreference$$ 0.074495
-$$min$pythonreference$$ 0.073612
-$$max$pythonreference$$ 0.076694
+Copy:           28434.1     0.075964     0.075525     0.076845
+$$rate$pythonreference$$ 28434.1
+$$avg$pythonreference$$ 0.075964
+$$min$pythonreference$$ 0.075525
+$$max$pythonreference$$ 0.076845
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -88,9 +88,9 @@ Number of Threads counted = 3
 $$thread$pythonreference$$ 3
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 81136 microseconds.
-   (= 81136 clock ticks)
-$$clocktick$pythonreference$$ 81136 
+Each test below will take on the order of 84214 microseconds.
+   (= 84214 clock ticks)
+$$clocktick$pythonreference$$ 84214 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -99,11 +99,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           29359.7     0.074258     0.073144     0.075079
-$$rate$pythonreference$$ 29359.7
-$$avg$pythonreference$$ 0.074258
-$$min$pythonreference$$ 0.073144
-$$max$pythonreference$$ 0.075079
+Copy:           29331.2     0.074245     0.073215     0.076656
+$$rate$pythonreference$$ 29331.2
+$$avg$pythonreference$$ 0.074245
+$$min$pythonreference$$ 0.073215
+$$max$pythonreference$$ 0.076656
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -124,9 +124,9 @@ Number of Threads counted = 4
 $$thread$pythonreference$$ 4
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 85175 microseconds.
-   (= 85175 clock ticks)
-$$clocktick$pythonreference$$ 85175 
+Each test below will take on the order of 80653 microseconds.
+   (= 80653 clock ticks)
+$$clocktick$pythonreference$$ 80653 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -135,11 +135,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           29385.4     0.074833     0.073080     0.083873
-$$rate$pythonreference$$ 29385.4
-$$avg$pythonreference$$ 0.074833
-$$min$pythonreference$$ 0.073080
-$$max$pythonreference$$ 0.083873
+Copy:           29619.6     0.073184     0.072502     0.073489
+$$rate$pythonreference$$ 29619.6
+$$avg$pythonreference$$ 0.073184
+$$min$pythonreference$$ 0.072502
+$$max$pythonreference$$ 0.073489
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -160,9 +160,9 @@ Number of Threads counted = 5
 $$thread$pythonreference$$ 5
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 82062 microseconds.
-   (= 82062 clock ticks)
-$$clocktick$pythonreference$$ 82062 
+Each test below will take on the order of 80484 microseconds.
+   (= 80484 clock ticks)
+$$clocktick$pythonreference$$ 80484 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -171,11 +171,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           29172.2     0.074115     0.073614     0.074599
-$$rate$pythonreference$$ 29172.2
-$$avg$pythonreference$$ 0.074115
-$$min$pythonreference$$ 0.073614
-$$max$pythonreference$$ 0.074599
+Copy:           29352.8     0.073663     0.073161     0.074342
+$$rate$pythonreference$$ 29352.8
+$$avg$pythonreference$$ 0.073663
+$$min$pythonreference$$ 0.073161
+$$max$pythonreference$$ 0.074342
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -196,9 +196,9 @@ Number of Threads counted = 6
 $$thread$pythonreference$$ 6
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 80454 microseconds.
-   (= 80454 clock ticks)
-$$clocktick$pythonreference$$ 80454 
+Each test below will take on the order of 80757 microseconds.
+   (= 80757 clock ticks)
+$$clocktick$pythonreference$$ 80757 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -207,11 +207,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           29356.8     0.073393     0.073151     0.073957
-$$rate$pythonreference$$ 29356.8
-$$avg$pythonreference$$ 0.073393
-$$min$pythonreference$$ 0.073151
-$$max$pythonreference$$ 0.073957
+Copy:           29449.8     0.073346     0.072920     0.073755
+$$rate$pythonreference$$ 29449.8
+$$avg$pythonreference$$ 0.073346
+$$min$pythonreference$$ 0.072920
+$$max$pythonreference$$ 0.073755
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -232,9 +232,9 @@ Number of Threads counted = 7
 $$thread$pythonreference$$ 7
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 81292 microseconds.
-   (= 81292 clock ticks)
-$$clocktick$pythonreference$$ 81292 
+Each test below will take on the order of 81009 microseconds.
+   (= 81009 clock ticks)
+$$clocktick$pythonreference$$ 81009 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -243,11 +243,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           28947.3     0.074862     0.074186     0.075344
-$$rate$pythonreference$$ 28947.3
-$$avg$pythonreference$$ 0.074862
-$$min$pythonreference$$ 0.074186
-$$max$pythonreference$$ 0.075344
+Copy:           29294.0     0.073886     0.073308     0.074832
+$$rate$pythonreference$$ 29294.0
+$$avg$pythonreference$$ 0.073886
+$$min$pythonreference$$ 0.073308
+$$max$pythonreference$$ 0.074832
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -268,9 +268,9 @@ Number of Threads counted = 8
 $$thread$pythonreference$$ 8
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 80652 microseconds.
-   (= 80652 clock ticks)
-$$clocktick$pythonreference$$ 80652 
+Each test below will take on the order of 81081 microseconds.
+   (= 81081 clock ticks)
+$$clocktick$pythonreference$$ 81081 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -279,11 +279,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           29247.7     0.074447     0.073424     0.075594
-$$rate$pythonreference$$ 29247.7
-$$avg$pythonreference$$ 0.074447
-$$min$pythonreference$$ 0.073424
-$$max$pythonreference$$ 0.075594
+Copy:           29529.2     0.074270     0.072724     0.082500
+$$rate$pythonreference$$ 29529.2
+$$avg$pythonreference$$ 0.074270
+$$min$pythonreference$$ 0.072724
+$$max$pythonreference$$ 0.082500
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -304,9 +304,9 @@ Number of Threads counted = 9
 $$thread$pythonreference$$ 9
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 80718 microseconds.
-   (= 80718 clock ticks)
-$$clocktick$pythonreference$$ 80718 
+Each test below will take on the order of 79711 microseconds.
+   (= 79711 clock ticks)
+$$clocktick$pythonreference$$ 79711 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -315,11 +315,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           29148.1     0.074668     0.073675     0.076031
-$$rate$pythonreference$$ 29148.1
-$$avg$pythonreference$$ 0.074668
-$$min$pythonreference$$ 0.073675
-$$max$pythonreference$$ 0.076031
+Copy:           28908.3     0.075005     0.074286     0.075595
+$$rate$pythonreference$$ 28908.3
+$$avg$pythonreference$$ 0.075005
+$$min$pythonreference$$ 0.074286
+$$max$pythonreference$$ 0.075595
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -340,9 +340,9 @@ Number of Threads counted = 10
 $$thread$pythonreference$$ 10
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 81238 microseconds.
-   (= 81238 clock ticks)
-$$clocktick$pythonreference$$ 81238 
+Each test below will take on the order of 80659 microseconds.
+   (= 80659 clock ticks)
+$$clocktick$pythonreference$$ 80659 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -351,11 +351,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           29274.8     0.074285     0.073356     0.074976
-$$rate$pythonreference$$ 29274.8
-$$avg$pythonreference$$ 0.074285
-$$min$pythonreference$$ 0.073356
-$$max$pythonreference$$ 0.074976
+Copy:           29406.3     0.073310     0.073028     0.073795
+$$rate$pythonreference$$ 29406.3
+$$avg$pythonreference$$ 0.073310
+$$min$pythonreference$$ 0.073028
+$$max$pythonreference$$ 0.073795
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -376,9 +376,9 @@ Number of Threads counted = 11
 $$thread$pythonreference$$ 11
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 80678 microseconds.
-   (= 80678 clock ticks)
-$$clocktick$pythonreference$$ 80678 
+Each test below will take on the order of 80421 microseconds.
+   (= 80421 clock ticks)
+$$clocktick$pythonreference$$ 80421 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -387,11 +387,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           28899.3     0.074877     0.074309     0.075375
-$$rate$pythonreference$$ 28899.3
-$$avg$pythonreference$$ 0.074877
-$$min$pythonreference$$ 0.074309
-$$max$pythonreference$$ 0.075375
+Copy:           29454.7     0.073622     0.072908     0.074293
+$$rate$pythonreference$$ 29454.7
+$$avg$pythonreference$$ 0.073622
+$$min$pythonreference$$ 0.072908
+$$max$pythonreference$$ 0.074293
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -412,9 +412,9 @@ Number of Threads counted = 12
 $$thread$pythonreference$$ 12
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 80555 microseconds.
-   (= 80555 clock ticks)
-$$clocktick$pythonreference$$ 80555 
+Each test below will take on the order of 81118 microseconds.
+   (= 81118 clock ticks)
+$$clocktick$pythonreference$$ 81118 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -423,11 +423,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           29431.7     0.073481     0.072965     0.074072
-$$rate$pythonreference$$ 29431.7
-$$avg$pythonreference$$ 0.073481
-$$min$pythonreference$$ 0.072965
-$$max$pythonreference$$ 0.074072
+Copy:           29524.3     0.073335     0.072736     0.074850
+$$rate$pythonreference$$ 29524.3
+$$avg$pythonreference$$ 0.073335
+$$min$pythonreference$$ 0.072736
+$$max$pythonreference$$ 0.074850
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -448,9 +448,9 @@ Number of Threads counted = 13
 $$thread$pythonreference$$ 13
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 79440 microseconds.
-   (= 79440 clock ticks)
-$$clocktick$pythonreference$$ 79440 
+Each test below will take on the order of 82970 microseconds.
+   (= 82970 clock ticks)
+$$clocktick$pythonreference$$ 82970 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -459,11 +459,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           29212.7     0.073717     0.073512     0.074232
-$$rate$pythonreference$$ 29212.7
-$$avg$pythonreference$$ 0.073717
-$$min$pythonreference$$ 0.073512
-$$max$pythonreference$$ 0.074232
+Copy:           28234.1     0.076837     0.076060     0.077681
+$$rate$pythonreference$$ 28234.1
+$$avg$pythonreference$$ 0.076837
+$$min$pythonreference$$ 0.076060
+$$max$pythonreference$$ 0.077681
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -484,9 +484,9 @@ Number of Threads counted = 14
 $$thread$pythonreference$$ 14
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 79258 microseconds.
-   (= 79258 clock ticks)
-$$clocktick$pythonreference$$ 79258 
+Each test below will take on the order of 82077 microseconds.
+   (= 82077 clock ticks)
+$$clocktick$pythonreference$$ 82077 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -495,11 +495,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           29306.8     0.073710     0.073276     0.073939
-$$rate$pythonreference$$ 29306.8
-$$avg$pythonreference$$ 0.073710
-$$min$pythonreference$$ 0.073276
-$$max$pythonreference$$ 0.073939
+Copy:           28158.9     0.076694     0.076263     0.077387
+$$rate$pythonreference$$ 28158.9
+$$avg$pythonreference$$ 0.076694
+$$min$pythonreference$$ 0.076263
+$$max$pythonreference$$ 0.077387
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -520,9 +520,9 @@ Number of Threads counted = 15
 $$thread$pythonreference$$ 15
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 80247 microseconds.
-   (= 80247 clock ticks)
-$$clocktick$pythonreference$$ 80247 
+Each test below will take on the order of 84607 microseconds.
+   (= 84607 clock ticks)
+$$clocktick$pythonreference$$ 84607 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -531,11 +531,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           29302.8     0.073884     0.073286     0.074120
-$$rate$pythonreference$$ 29302.8
-$$avg$pythonreference$$ 0.073884
-$$min$pythonreference$$ 0.073286
-$$max$pythonreference$$ 0.074120
+Copy:           28128.0     0.077628     0.076347     0.083911
+$$rate$pythonreference$$ 28128.0
+$$avg$pythonreference$$ 0.077628
+$$min$pythonreference$$ 0.076347
+$$max$pythonreference$$ 0.083911
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -556,9 +556,9 @@ Number of Threads counted = 16
 $$thread$pythonreference$$ 16
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 80646 microseconds.
-   (= 80646 clock ticks)
-$$clocktick$pythonreference$$ 80646 
+Each test below will take on the order of 81902 microseconds.
+   (= 81902 clock ticks)
+$$clocktick$pythonreference$$ 81902 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -567,11 +567,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           29563.8     0.073007     0.072639     0.073372
-$$rate$pythonreference$$ 29563.8
-$$avg$pythonreference$$ 0.073007
-$$min$pythonreference$$ 0.072639
-$$max$pythonreference$$ 0.073372
+Copy:           29510.5     0.073052     0.072770     0.073544
+$$rate$pythonreference$$ 29510.5
+$$avg$pythonreference$$ 0.073052
+$$min$pythonreference$$ 0.072770
+$$max$pythonreference$$ 0.073544
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -592,9 +592,9 @@ Number of Threads counted = 17
 $$thread$pythonreference$$ 17
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 82847 microseconds.
-   (= 82847 clock ticks)
-$$clocktick$pythonreference$$ 82847 
+Each test below will take on the order of 80645 microseconds.
+   (= 80645 clock ticks)
+$$clocktick$pythonreference$$ 80645 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -603,11 +603,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           29078.2     0.074050     0.073852     0.074378
-$$rate$pythonreference$$ 29078.2
-$$avg$pythonreference$$ 0.074050
-$$min$pythonreference$$ 0.073852
-$$max$pythonreference$$ 0.074378
+Copy:           29256.0     0.073839     0.073403     0.074505
+$$rate$pythonreference$$ 29256.0
+$$avg$pythonreference$$ 0.073839
+$$min$pythonreference$$ 0.073403
+$$max$pythonreference$$ 0.074505
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -628,9 +628,9 @@ Number of Threads counted = 18
 $$thread$pythonreference$$ 18
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 81228 microseconds.
-   (= 81228 clock ticks)
-$$clocktick$pythonreference$$ 81228 
+Each test below will take on the order of 80853 microseconds.
+   (= 80853 clock ticks)
+$$clocktick$pythonreference$$ 80853 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -639,11 +639,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           29389.0     0.073655     0.073071     0.074229
-$$rate$pythonreference$$ 29389.0
-$$avg$pythonreference$$ 0.073655
-$$min$pythonreference$$ 0.073071
-$$max$pythonreference$$ 0.074229
+Copy:           29265.6     0.073690     0.073379     0.074157
+$$rate$pythonreference$$ 29265.6
+$$avg$pythonreference$$ 0.073690
+$$min$pythonreference$$ 0.073379
+$$max$pythonreference$$ 0.074157
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -664,9 +664,9 @@ Number of Threads counted = 19
 $$thread$pythonreference$$ 19
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 81496 microseconds.
-   (= 81496 clock ticks)
-$$clocktick$pythonreference$$ 81496 
+Each test below will take on the order of 82663 microseconds.
+   (= 82663 clock ticks)
+$$clocktick$pythonreference$$ 82663 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -675,11 +675,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           29070.7     0.074842     0.073871     0.075555
-$$rate$pythonreference$$ 29070.7
-$$avg$pythonreference$$ 0.074842
-$$min$pythonreference$$ 0.073871
-$$max$pythonreference$$ 0.075555
+Copy:           29447.0     0.073716     0.072927     0.074626
+$$rate$pythonreference$$ 29447.0
+$$avg$pythonreference$$ 0.073716
+$$min$pythonreference$$ 0.072927
+$$max$pythonreference$$ 0.074626
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -700,9 +700,9 @@ Number of Threads counted = 20
 $$thread$pythonreference$$ 20
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 82199 microseconds.
-   (= 82199 clock ticks)
-$$clocktick$pythonreference$$ 82199 
+Each test below will take on the order of 79210 microseconds.
+   (= 79210 clock ticks)
+$$clocktick$pythonreference$$ 79210 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -711,11 +711,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           29181.7     0.074819     0.073590     0.076948
-$$rate$pythonreference$$ 29181.7
-$$avg$pythonreference$$ 0.074819
-$$min$pythonreference$$ 0.073590
-$$max$pythonreference$$ 0.076948
+Copy:           29583.3     0.073014     0.072591     0.073314
+$$rate$pythonreference$$ 29583.3
+$$avg$pythonreference$$ 0.073014
+$$min$pythonreference$$ 0.072591
+$$max$pythonreference$$ 0.073314
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -736,9 +736,9 @@ Number of Threads counted = 21
 $$thread$pythonreference$$ 21
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 83169 microseconds.
-   (= 83169 clock ticks)
-$$clocktick$pythonreference$$ 83169 
+Each test below will take on the order of 79880 microseconds.
+   (= 79880 clock ticks)
+$$clocktick$pythonreference$$ 79880 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -747,11 +747,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           29136.6     0.074321     0.073704     0.075153
-$$rate$pythonreference$$ 29136.6
-$$avg$pythonreference$$ 0.074321
-$$min$pythonreference$$ 0.073704
-$$max$pythonreference$$ 0.075153
+Copy:           29467.3     0.073790     0.072877     0.075027
+$$rate$pythonreference$$ 29467.3
+$$avg$pythonreference$$ 0.073790
+$$min$pythonreference$$ 0.072877
+$$max$pythonreference$$ 0.075027
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -772,9 +772,9 @@ Number of Threads counted = 22
 $$thread$pythonreference$$ 22
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 82067 microseconds.
-   (= 82067 clock ticks)
-$$clocktick$pythonreference$$ 82067 
+Each test below will take on the order of 80954 microseconds.
+   (= 80954 clock ticks)
+$$clocktick$pythonreference$$ 80954 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -783,11 +783,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           16367.3     0.134052     0.131206     0.144559
-$$rate$pythonreference$$ 16367.3
-$$avg$pythonreference$$ 0.134052
-$$min$pythonreference$$ 0.131206
-$$max$pythonreference$$ 0.144559
+Copy:           16722.6     0.131605     0.128418     0.140901
+$$rate$pythonreference$$ 16722.6
+$$avg$pythonreference$$ 0.131605
+$$min$pythonreference$$ 0.128418
+$$max$pythonreference$$ 0.140901
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -808,9 +808,9 @@ Number of Threads counted = 23
 $$thread$pythonreference$$ 23
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 83840 microseconds.
-   (= 83840 clock ticks)
-$$clocktick$pythonreference$$ 83840 
+Each test below will take on the order of 80950 microseconds.
+   (= 80950 clock ticks)
+$$clocktick$pythonreference$$ 80950 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -819,11 +819,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           16542.6     0.131153     0.129815     0.133470
-$$rate$pythonreference$$ 16542.6
-$$avg$pythonreference$$ 0.131153
-$$min$pythonreference$$ 0.129815
-$$max$pythonreference$$ 0.133470
+Copy:           16784.4     0.130495     0.127945     0.132309
+$$rate$pythonreference$$ 16784.4
+$$avg$pythonreference$$ 0.130495
+$$min$pythonreference$$ 0.127945
+$$max$pythonreference$$ 0.132309
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -844,9 +844,9 @@ Number of Threads counted = 24
 $$thread$pythonreference$$ 24
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 81591 microseconds.
-   (= 81591 clock ticks)
-$$clocktick$pythonreference$$ 81591 
+Each test below will take on the order of 83032 microseconds.
+   (= 83032 clock ticks)
+$$clocktick$pythonreference$$ 83032 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -855,11 +855,11 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           16498.4     0.132007     0.130163     0.136105
-$$rate$pythonreference$$ 16498.4
-$$avg$pythonreference$$ 0.132007
-$$min$pythonreference$$ 0.130163
-$$max$pythonreference$$ 0.136105
+Copy:           16570.3     0.130928     0.129598     0.132454
+$$rate$pythonreference$$ 16570.3
+$$avg$pythonreference$$ 0.130928
+$$min$pythonreference$$ 0.129598
+$$max$pythonreference$$ 0.132454
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution-----------------------------------------------------------------
@@ -880,9 +880,9 @@ Number of Threads counted = 25
 $$thread$pythonreference$$ 25
 -------------------------------------------------------------
 Your clock granularity/precision appears to be 1 microseconds.
-Each test below will take on the order of 81121 microseconds.
-   (= 81121 clock ticks)
-$$clocktick$pythonreference$$ 81121 
+Each test below will take on the order of 92983 microseconds.
+   (= 92983 clock ticks)
+$$clocktick$pythonreference$$ 92983 
 Increase the size of the arrays if this shows that
 you are not getting at least 20 clock ticks per test.
 -------------------------------------------------------------
@@ -891,11 +891,551 @@ For best results, please be sure you know the
 precision of your system timer.
 -------------------------------------------------------------
 Function    Best Rate MB/s  Avg time     Min time     Max time
-Copy:           16779.1     0.129408     0.127986     0.131667
-$$rate$pythonreference$$ 16779.1
-$$avg$pythonreference$$ 0.129408
-$$min$pythonreference$$ 0.127986
-$$max$pythonreference$$ 0.131667
+Copy:           16718.6     0.130850     0.128449     0.133439
+$$rate$pythonreference$$ 16718.6
+$$avg$pythonreference$$ 0.130850
+$$min$pythonreference$$ 0.128449
+$$max$pythonreference$$ 0.133439
+-------------------------------------------------------------
+-------------------------------------------------------------
+----End of Execution-----------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 134217728 (elements), Offset = 0 (elements)
+$$array_size$pythonreference$$ 134217728
+Memory per array = 1024.0 MiB (= 1.0 GiB).
+Total memory required = 3072.0 MiB (= 3.0 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 26
+Number of Threads counted = 26
+$$thread$pythonreference$$ 26
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 83268 microseconds.
+   (= 83268 clock ticks)
+$$clocktick$pythonreference$$ 83268 
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           16493.6     0.131636     0.130201     0.132434
+$$rate$pythonreference$$ 16493.6
+$$avg$pythonreference$$ 0.131636
+$$min$pythonreference$$ 0.130201
+$$max$pythonreference$$ 0.132434
+-------------------------------------------------------------
+-------------------------------------------------------------
+----End of Execution-----------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 134217728 (elements), Offset = 0 (elements)
+$$array_size$pythonreference$$ 134217728
+Memory per array = 1024.0 MiB (= 1.0 GiB).
+Total memory required = 3072.0 MiB (= 3.0 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 27
+Number of Threads counted = 27
+$$thread$pythonreference$$ 27
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 83695 microseconds.
+   (= 83695 clock ticks)
+$$clocktick$pythonreference$$ 83695 
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           16826.1     0.131156     0.127628     0.137164
+$$rate$pythonreference$$ 16826.1
+$$avg$pythonreference$$ 0.131156
+$$min$pythonreference$$ 0.127628
+$$max$pythonreference$$ 0.137164
+-------------------------------------------------------------
+-------------------------------------------------------------
+----End of Execution-----------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 134217728 (elements), Offset = 0 (elements)
+$$array_size$pythonreference$$ 134217728
+Memory per array = 1024.0 MiB (= 1.0 GiB).
+Total memory required = 3072.0 MiB (= 3.0 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 28
+Number of Threads counted = 28
+$$thread$pythonreference$$ 28
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 81091 microseconds.
+   (= 81091 clock ticks)
+$$clocktick$pythonreference$$ 81091 
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           16702.2     0.130732     0.128575     0.131699
+$$rate$pythonreference$$ 16702.2
+$$avg$pythonreference$$ 0.130732
+$$min$pythonreference$$ 0.128575
+$$max$pythonreference$$ 0.131699
+-------------------------------------------------------------
+-------------------------------------------------------------
+----End of Execution-----------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 134217728 (elements), Offset = 0 (elements)
+$$array_size$pythonreference$$ 134217728
+Memory per array = 1024.0 MiB (= 1.0 GiB).
+Total memory required = 3072.0 MiB (= 3.0 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 29
+Number of Threads counted = 29
+$$thread$pythonreference$$ 29
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 81848 microseconds.
+   (= 81848 clock ticks)
+$$clocktick$pythonreference$$ 81848 
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           16445.9     0.131153     0.130579     0.131852
+$$rate$pythonreference$$ 16445.9
+$$avg$pythonreference$$ 0.131153
+$$min$pythonreference$$ 0.130579
+$$max$pythonreference$$ 0.131852
+-------------------------------------------------------------
+-------------------------------------------------------------
+----End of Execution-----------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 134217728 (elements), Offset = 0 (elements)
+$$array_size$pythonreference$$ 134217728
+Memory per array = 1024.0 MiB (= 1.0 GiB).
+Total memory required = 3072.0 MiB (= 3.0 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 30
+Number of Threads counted = 30
+$$thread$pythonreference$$ 30
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 81333 microseconds.
+   (= 81333 clock ticks)
+$$clocktick$pythonreference$$ 81333 
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           16485.7     0.132757     0.130263     0.139389
+$$rate$pythonreference$$ 16485.7
+$$avg$pythonreference$$ 0.132757
+$$min$pythonreference$$ 0.130263
+$$max$pythonreference$$ 0.139389
+-------------------------------------------------------------
+-------------------------------------------------------------
+----End of Execution-----------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 134217728 (elements), Offset = 0 (elements)
+$$array_size$pythonreference$$ 134217728
+Memory per array = 1024.0 MiB (= 1.0 GiB).
+Total memory required = 3072.0 MiB (= 3.0 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 31
+Number of Threads counted = 31
+$$thread$pythonreference$$ 31
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 82083 microseconds.
+   (= 82083 clock ticks)
+$$clocktick$pythonreference$$ 82083 
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           16656.2     0.130748     0.128930     0.132234
+$$rate$pythonreference$$ 16656.2
+$$avg$pythonreference$$ 0.130748
+$$min$pythonreference$$ 0.128930
+$$max$pythonreference$$ 0.132234
+-------------------------------------------------------------
+-------------------------------------------------------------
+----End of Execution-----------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 134217728 (elements), Offset = 0 (elements)
+$$array_size$pythonreference$$ 134217728
+Memory per array = 1024.0 MiB (= 1.0 GiB).
+Total memory required = 3072.0 MiB (= 3.0 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 32
+Number of Threads counted = 32
+$$thread$pythonreference$$ 32
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 81675 microseconds.
+   (= 81675 clock ticks)
+$$clocktick$pythonreference$$ 81675 
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           17278.6     0.127797     0.124286     0.135731
+$$rate$pythonreference$$ 17278.6
+$$avg$pythonreference$$ 0.127797
+$$min$pythonreference$$ 0.124286
+$$max$pythonreference$$ 0.135731
+-------------------------------------------------------------
+-------------------------------------------------------------
+----End of Execution-----------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 134217728 (elements), Offset = 0 (elements)
+$$array_size$pythonreference$$ 134217728
+Memory per array = 1024.0 MiB (= 1.0 GiB).
+Total memory required = 3072.0 MiB (= 3.0 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 33
+Number of Threads counted = 33
+$$thread$pythonreference$$ 33
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 80945 microseconds.
+   (= 80945 clock ticks)
+$$clocktick$pythonreference$$ 80945 
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           16747.1     0.129343     0.128230     0.130878
+$$rate$pythonreference$$ 16747.1
+$$avg$pythonreference$$ 0.129343
+$$min$pythonreference$$ 0.128230
+$$max$pythonreference$$ 0.130878
+-------------------------------------------------------------
+-------------------------------------------------------------
+----End of Execution-----------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 134217728 (elements), Offset = 0 (elements)
+$$array_size$pythonreference$$ 134217728
+Memory per array = 1024.0 MiB (= 1.0 GiB).
+Total memory required = 3072.0 MiB (= 3.0 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 34
+Number of Threads counted = 34
+$$thread$pythonreference$$ 34
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 79895 microseconds.
+   (= 79895 clock ticks)
+$$clocktick$pythonreference$$ 79895 
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           16814.6     0.128852     0.127715     0.130332
+$$rate$pythonreference$$ 16814.6
+$$avg$pythonreference$$ 0.128852
+$$min$pythonreference$$ 0.127715
+$$max$pythonreference$$ 0.130332
+-------------------------------------------------------------
+-------------------------------------------------------------
+----End of Execution-----------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 134217728 (elements), Offset = 0 (elements)
+$$array_size$pythonreference$$ 134217728
+Memory per array = 1024.0 MiB (= 1.0 GiB).
+Total memory required = 3072.0 MiB (= 3.0 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 35
+Number of Threads counted = 35
+$$thread$pythonreference$$ 35
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 80479 microseconds.
+   (= 80479 clock ticks)
+$$clocktick$pythonreference$$ 80479 
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           16749.4     0.129214     0.128213     0.130896
+$$rate$pythonreference$$ 16749.4
+$$avg$pythonreference$$ 0.129214
+$$min$pythonreference$$ 0.128213
+$$max$pythonreference$$ 0.130896
+-------------------------------------------------------------
+-------------------------------------------------------------
+----End of Execution-----------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 134217728 (elements), Offset = 0 (elements)
+$$array_size$pythonreference$$ 134217728
+Memory per array = 1024.0 MiB (= 1.0 GiB).
+Total memory required = 3072.0 MiB (= 3.0 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 36
+Number of Threads counted = 36
+$$thread$pythonreference$$ 36
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 80494 microseconds.
+   (= 80494 clock ticks)
+$$clocktick$pythonreference$$ 80494 
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           16943.1     0.128433     0.126747     0.129879
+$$rate$pythonreference$$ 16943.1
+$$avg$pythonreference$$ 0.128433
+$$min$pythonreference$$ 0.126747
+$$max$pythonreference$$ 0.129879
+-------------------------------------------------------------
+-------------------------------------------------------------
+----End of Execution-----------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 134217728 (elements), Offset = 0 (elements)
+$$array_size$pythonreference$$ 134217728
+Memory per array = 1024.0 MiB (= 1.0 GiB).
+Total memory required = 3072.0 MiB (= 3.0 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 37
+Number of Threads counted = 37
+$$thread$pythonreference$$ 37
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 81174 microseconds.
+   (= 81174 clock ticks)
+$$clocktick$pythonreference$$ 81174 
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           16961.9     0.128466     0.126606     0.131793
+$$rate$pythonreference$$ 16961.9
+$$avg$pythonreference$$ 0.128466
+$$min$pythonreference$$ 0.126606
+$$max$pythonreference$$ 0.131793
+-------------------------------------------------------------
+-------------------------------------------------------------
+----End of Execution-----------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 134217728 (elements), Offset = 0 (elements)
+$$array_size$pythonreference$$ 134217728
+Memory per array = 1024.0 MiB (= 1.0 GiB).
+Total memory required = 3072.0 MiB (= 3.0 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 38
+Number of Threads counted = 38
+$$thread$pythonreference$$ 38
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 81153 microseconds.
+   (= 81153 clock ticks)
+$$clocktick$pythonreference$$ 81153 
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           16920.6     0.128474     0.126915     0.130603
+$$rate$pythonreference$$ 16920.6
+$$avg$pythonreference$$ 0.128474
+$$min$pythonreference$$ 0.126915
+$$max$pythonreference$$ 0.130603
+-------------------------------------------------------------
+-------------------------------------------------------------
+----End of Execution-----------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 134217728 (elements), Offset = 0 (elements)
+$$array_size$pythonreference$$ 134217728
+Memory per array = 1024.0 MiB (= 1.0 GiB).
+Total memory required = 3072.0 MiB (= 3.0 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 39
+Number of Threads counted = 39
+$$thread$pythonreference$$ 39
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 82087 microseconds.
+   (= 82087 clock ticks)
+$$clocktick$pythonreference$$ 82087 
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           16666.3     0.130424     0.128852     0.133430
+$$rate$pythonreference$$ 16666.3
+$$avg$pythonreference$$ 0.130424
+$$min$pythonreference$$ 0.128852
+$$max$pythonreference$$ 0.133430
+-------------------------------------------------------------
+-------------------------------------------------------------
+----End of Execution-----------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 134217728 (elements), Offset = 0 (elements)
+$$array_size$pythonreference$$ 134217728
+Memory per array = 1024.0 MiB (= 1.0 GiB).
+Total memory required = 3072.0 MiB (= 3.0 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 40
+Number of Threads counted = 40
+$$thread$pythonreference$$ 40
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 82488 microseconds.
+   (= 82488 clock ticks)
+$$clocktick$pythonreference$$ 82488 
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           16570.2     0.130802     0.129599     0.132505
+$$rate$pythonreference$$ 16570.2
+$$avg$pythonreference$$ 0.130802
+$$min$pythonreference$$ 0.129599
+$$max$pythonreference$$ 0.132505
 -------------------------------------------------------------
 -------------------------------------------------------------
 ----End of Execution----

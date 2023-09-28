@@ -60,7 +60,7 @@ print("Max Times:", max_times)
 
 # Create the graph
 plt.figure(figsize=(8, 6))
-plt.plot(threads, avgs, marker='o', linestyle='-')
+plt.plot(threads, rates, marker='o', linestyle='-')
 plt.xlabel('Number of Threads')
 plt.ylabel('Memory Bandwidth (MiB/s)')
 plt.title('Memory Bandwidth vs. Number of Threads')
