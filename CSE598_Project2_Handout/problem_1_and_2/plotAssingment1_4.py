@@ -102,12 +102,28 @@ def plot(multi_result_array_size,multi_result_rates):
 
     # Show the graph or save it as an image file
     plt.savefig("Problem"+str(multi_result_array_size)+".jpg")
+    plt.close()
+
+def plot1(multi_result_array_size,multi_result_SD_rates):
+
+    # Create the graph
+    plt.figure(figsize=(10, 6),dpi=300)
+    plt.plot(multi_result_array_size, multi_result_SD_rates, marker='o', linestyle='-')
+    plt.xlabel('Size of Array : '+str(multi_result_array_size))
+    plt.ylabel('Sd rates')
+    plt.title('Size of Array vs sd rates')
+    plt.grid(True)
+    #plt.yticks(rates)
+
+    # Show the graph or save it as an image file
+    plt.savefig("SD rates vs Array Size.jpg")
 
 
 if __name__=="__main__":
     array_sizes = [8192, 16384, 32768, 65536, 131072, 262144, 524288, 1048576, 2097152, 4194304, 8388608, 16777216]
     multi_result_array_size=[]
     multi_result_rates=[]
+    multi_result_SD_rates=[]
     for array_size in array_sizes:
         iterfunc(array_size)
 
@@ -115,15 +131,12 @@ if __name__=="__main__":
         plot(array_size,result_rates)
         multi_result_array_size.append(result_array_size[0])
         print("multi_result_array_size",multi_result_array_size)
-
-        print("multi_result_rates ",result_rates)
-
         
 
-        multi_result_rates.append(standarad_dev_func(result_rates))
-
-        print("multi_result_rates after sd",multi_result_rates)
-
+        multi_result_SD_rates.append(standarad_dev_func(result_rates))
+        print("multi_result_SD_rates",multi_result_SD_rates)
         print("\n\n\n")
-        
+
+
+        plot1(multi_result_array_size, multi_result_SD_rates)
     
